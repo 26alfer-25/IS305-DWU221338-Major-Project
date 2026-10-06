@@ -1,0 +1,84 @@
+[
+  {
+    "userId": "DWU2026001",
+    "firstName": "Mary",
+    "lastName": "Kila",
+    "email": "mary.kila@example.com",
+    "userType": "Student",
+    "specialisedData": {
+      "programme": "BSc Information Systems",
+      "yearLevel": 2
+    }
+  },
+  {
+    "userId": "DWU2026002",
+    "firstName": "John",
+    "lastName": "Sausau",
+    "email": "john.sausau@example.com",
+    "userType": "Student",
+    "specialisedData": {
+      "programme": "Bachelor of Education",
+      "yearLevel": 3
+    }
+  },
+  {
+    "userId": "STAFF001",
+    "firstName": "Grace",
+    "lastName": "Tobby",
+    "email": "grace.tobby@example.com",
+    "userType": "Staff",
+    "specialisedData": {
+      "department": "Library"
+    }
+  },
+  {
+    "userId": "SO001",
+    "firstName": "Peter",
+    "lastName": "Walo",
+    "email": "peter.walo@example.com",
+    "userType": "Service Officer",
+    "specialisedData": {
+      "serviceSection": "ICT and Facilities"
+    }
+  },
+  {
+    "userId": "TECH001",
+    "firstName": "Daniel",
+    "lastName": "Aiwa",
+    "email": "daniel.aiwa@example.com",
+    "userType": "Technician",
+    "specialisedData": {
+      "speciality": "Networking"
+    }
+  },
+  {
+    "userId": "TECH002",
+    "firstName": "Ruth",
+    "lastName": "Bani",
+    "email": "ruth.bani@example.com",
+    "userType": "Technician",
+    "specialisedData": {
+      "speciality": "Electrical and Plumbing"
+    }
+  },
+  {
+    "userId": "TECH003",
+    "firstName": "Sarah",
+    "lastName": "Nema",
+    "email": "sarah.nema@example.com",
+    "userType": "Technician",
+    "specialisedData": {
+      "speciality": "Cleaning and Sanitation"
+    }
+  },
+  {
+    "userId": "ADM001",
+    "firstName": "Anna",
+    "lastName": "Kopi",
+    "email": "anna.kopi@example.com",
+    "userType": "Administrator",
+    "specialisedData": {
+      "office": "ICT Office"
+    }
+  }
+]

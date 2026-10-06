@@ -1,0 +1,12 @@
+{
+  "name": "campus-service-request-system",
+  "version": "1.0.0",
+  "description": "IS305 AT3 - Campus Service Request Management System (Node.js console application)",
+  "main": "src/CampusServiceApp.js",
+  "scripts": {
+    "start": "node src/CampusServiceApp.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

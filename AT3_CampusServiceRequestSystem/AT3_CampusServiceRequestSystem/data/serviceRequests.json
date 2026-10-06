@@ -1,0 +1,139 @@
+[
+  {
+    "requestId": "REQ001",
+    "requestType": "ICTSupportRequest",
+    "requesterId": "DWU2026001",
+    "title": "Unable to access campus Wi-Fi",
+    "description": "Cannot connect to the campus network on Level 2.",
+    "location": "Library Level 2",
+    "category": "ICT Support",
+    "priority": "High",
+    "status": "Closed",
+    "assignedTechnicianId": "TECH001",
+    "dateSubmitted": "2026-09-26T11:44:02.165Z",
+    "dateUpdated": "2026-09-27T05:14:02.165Z",
+    "specialisedData": {
+      "deviceType": "Laptop",
+      "systemName": "Campus Wi-Fi",
+      "faultType": "Network",
+      "networkImpact": "Department"
+    }
+  },
+  {
+    "requestId": "REQ002",
+    "requestType": "MaintenanceRequest",
+    "requesterId": "DWU2026002",
+    "title": "Broken door lock",
+    "description": "The lock on the Block B store room door is jammed.",
+    "location": "Block B Room 4",
+    "category": "Facilities Maintenance",
+    "priority": "Urgent",
+    "status": "Assigned",
+    "assignedTechnicianId": "TECH002",
+    "dateSubmitted": "2026-09-29T05:44:02.165Z",
+    "dateUpdated": "2026-09-29T09:44:02.165Z",
+    "specialisedData": {
+      "building": "Block B",
+      "roomNumber": "4",
+      "hazardLevel": "High",
+      "equipmentAffected": "Door lock"
+    }
+  },
+  {
+    "requestId": "REQ003",
+    "requestType": "CleaningRequest",
+    "requesterId": "STAFF001",
+    "title": "Spill in the cafeteria",
+    "description": "Drink spilled near the serving counter.",
+    "location": "Cafeteria",
+    "category": "Cleaning and Sanitation",
+    "priority": "Medium",
+    "status": "In Progress",
+    "assignedTechnicianId": "TECH003",
+    "dateSubmitted": "2026-09-30T01:44:02.165Z",
+    "dateUpdated": "2026-09-30T07:44:02.165Z",
+    "specialisedData": {
+      "cleaningArea": "Serving counter",
+      "hygieneRisk": "High",
+      "serviceType": "Spill Response",
+      "preferredServiceTime": "Afternoon"
+    }
+  },
+  {
+    "requestId": "REQ004",
+    "requestType": "GeneralServiceRequest",
+    "requesterId": "DWU2026001",
+    "title": "Chairs needed for Open Day",
+    "description": "Forty extra chairs for the main hall.",
+    "location": "Main Hall",
+    "category": "General Campus Service",
+    "priority": "Low",
+    "status": "Submitted",
+    "assignedTechnicianId": null,
+    "dateSubmitted": "2026-09-30T06:44:02.165Z",
+    "dateUpdated": "2026-09-30T06:44:02.165Z",
+    "specialisedData": {
+      "serviceArea": "Events"
+    }
+  },
+  {
+    "requestId": "REQ005",
+    "requestType": "ICTSupportRequest",
+    "requesterId": "STAFF001",
+    "title": "Projector not working",
+    "description": "Projector shows no signal in Lecture Hall 2.",
+    "location": "Lecture Hall 2",
+    "category": "ICT Support",
+    "priority": "Medium",
+    "status": "Resolved",
+    "assignedTechnicianId": "TECH001",
+    "dateSubmitted": "2026-09-29T15:44:02.165Z",
+    "dateUpdated": "2026-09-30T03:44:02.165Z",
+    "specialisedData": {
+      "deviceType": "Projector",
+      "systemName": "Lecture Hall 2 AV system",
+      "faultType": "Hardware",
+      "networkImpact": "Single User"
+    }
+  },
+  {
+    "requestId": "REQ006",
+    "requestType": "MaintenanceRequest",
+    "requesterId": "DWU2026001",
+    "title": "Leaking tap",
+    "description": "Tap in the student lounge drips slowly.",
+    "location": "Student Lounge",
+    "category": "Facilities Maintenance",
+    "priority": "Low",
+    "status": "Cancelled",
+    "assignedTechnicianId": null,
+    "dateSubmitted": "2026-09-30T03:44:02.165Z",
+    "dateUpdated": "2026-09-30T04:14:02.165Z",
+    "specialisedData": {
+      "building": "Student Centre",
+      "roomNumber": "Lounge",
+      "hazardLevel": "Low",
+      "equipmentAffected": "Tap"
+    }
+  },
+  {
+    "requestId": "REQ007",
+    "requestType": "ICTSupportRequest",
+    "requesterId": "DWU2026002",
+    "title": "Library computers cannot log in",
+    "description": "Every lab PC rejects the student login.",
+    "location": "Library Level 2",
+    "category": "ICT Support",
+    "priority": "Urgent",
+    "status": "Reviewed",
+    "assignedTechnicianId": null,
+    "dateSubmitted": "2026-09-30T09:44:02.165Z",
+    "dateUpdated": "2026-09-30T10:14:02.165Z",
+    "specialisedData": {
+      "deviceType": "Desktop",
+      "systemName": "Library lab PCs",
+      "faultType": "Account Access",
+      "networkImpact": "Campus-wide"
+    }
+  }
+]
